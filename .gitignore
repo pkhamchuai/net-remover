@@ -1,3 +1,6 @@
 data/*
+masks/*
+results/*
+!results/overview_grid.png
 .venv/
 __pycache__/
